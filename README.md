@@ -8,6 +8,9 @@ https://kaiserwebsites.dk/
 Er pt igang med et project for at lære NodeJS og Amazon AWS - Her er demo-forsiden :)
 ![Skærmbillede 2022-03-19 kl  15 55 36](https://user-images.githubusercontent.com/101937668/159126147-6e77d2a9-77c5-474f-bdc7-49cfdc76029f.png)
 
+Mit workflow i figma:
+![Skærmbillede 2022-03-19 kl  18 17 05](https://user-images.githubusercontent.com/101937668/159131392-5d99aff9-f48d-4093-8e63-f34a6de94c10.png)
+
 
 Nedenfor kan ses et bilag af en demo-forside med dummy-tekst til en FiveM hjemmeside til en jeg kender.
 ![image](https://user-images.githubusercontent.com/101937668/159125841-3d0f63d3-5cc1-416b-8147-71d7961fa961.png)
